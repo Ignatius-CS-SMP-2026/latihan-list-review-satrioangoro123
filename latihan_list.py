@@ -16,3 +16,17 @@
 # ---------------------------------------------------------
 
 # Tulis kodemu di bawah ini:
+print("/n===Nilai Ujian Siswa===")
+nilai = [75, 55, 90, 85, 45, 95, 80]
+
+print("Data nilai asli :", nilai)
+nilai.sort(reverse=True)
+print("Data setelah diurutkan:", nilai)
+data = [:3]
+print("Tiga nilai tertinggi (penerima beasiswa):", data)
+nilai_user = []
+for n in nilai:
+    if n >= 60:
+        nilai_user.append(n)
+
+print("Daftar nilai yang lulus:", nilai_user)
