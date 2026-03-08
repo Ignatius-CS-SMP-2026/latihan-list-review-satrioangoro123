@@ -1,5 +1,5 @@
-# NAMA  : 
-# KELAS : 
+# NAMA  : Satrio Angoro
+# KELAS : 9A
 # ---------------------------------------------------------
 # LATIHAN: REVIEW LIST PYTHON
 #Diberikan sebuah data acak nilai ujian siswa. Buatlah program yang mengurutkan data tersebut 
